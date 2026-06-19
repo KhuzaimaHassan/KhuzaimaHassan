@@ -152,29 +152,6 @@ A machine learning platform for credit risk assessment, featuring model training
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> &nbsp;GitHub Analytics
 
-<div align="center">
-
-<a href="https://github.com/KhuzaimaHassan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KhuzaimaHassan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&ring_color=6C63FF" alt="Khuzaima's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhuzaimaHassan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/KhuzaimaHassan">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhuzaimaHassan&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=A78BFA&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=8B949E&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
-</a>
-
-<br/><br/>
-
-<!-- Activity Graph -->
-<a href="https://github.com/KhuzaimaHassan">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhuzaimaHassan&bg_color=0D1117&color=6C63FF&line=A78BFA&point=FFFFFF&area=true&area_color=6C63FF&hide_border=true" alt="Contribution Graph" width="95%"/>
-</a>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🤝 Let's Connect
 
