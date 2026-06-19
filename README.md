@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Khuzaima+Hassan;AI%2FML+Engineer+%7C+Building+Intelligent+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=%F0%9F%91%8B+Hey%2C+I'm+Khuzaima+Hassan;AI%2FML+Engineer+%7C+Building+Intelligent+Systems" alt="Typing SVG" />
 
 <br/>
 
 <!-- Subtle Tagline -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=4000&pause=2000&color=A78BFA&center=true&vCenter=true&repeat=true&width=600&height=30&lines=End-to-End+ML+Pipelines+%E2%80%A2+GenAI+Apps+%E2%80%A2+Agentic+AI+Systems" alt="Subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=4000&pause=2000&color=A78BFA&center=true&vCenter=true&repeat=true&width=900&height=40&lines=End-to-End+ML+Pipelines+%E2%80%A2+GenAI+Apps+%E2%80%A2+Agentic+AI+Systems" alt="Subtitle" />
 
 <br/><br/>
 
@@ -25,22 +25,21 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;About Me
 
 ```yaml
-name: Khuzaima Hassan
-role: AI/ML Engineer
-education:
-  university: NED University of Engineering & Technology
+Name: Khuzaima Hassan
+Role: AI/ML Engineer
+Education:
+  University: NED University of Engineering & Technology
   location: Karachi, Pakistan
-  degree: BS Computer Science
+  Degree: BS Computer Science with specialization in Data Science
 
 focus_areas:
-  - 🧠 Deep Learning & Neural Networks
   - 🤖 Agentic AI & LLM Systems
   - 🔄 End-to-End ML Pipelines & MLOps
   - 📊 Data Engineering & Analytics
   - 🚀 Generative AI Applications
 
 currently:
-  building: Intelligent AI agents with LangGraph & CrewAI
+  building: Intelligent AI agents with LangGraph 
   learning: Advanced RAG architectures & multi-agent systems
   exploring: Production-grade ML infrastructure
 ```
@@ -54,7 +53,6 @@ currently:
 ### 🧠 AI / ML / Data Science
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge&logo=robot&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-006400?style=for-the-badge&logo=xgboost&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -74,7 +72,6 @@ currently:
 
 ### 🗄️ Data & Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
 ![Hopsworks](https://img.shields.io/badge/Hopsworks-0DB7ED?style=for-the-badge&logo=hopsworks&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
@@ -190,14 +187,10 @@ A machine learning platform for credit risk assessment, featuring model training
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-khuzaimahassan.github.io-6C63FF?style=for-the-badge)](https://khuzaimahassan.github.io)
-[![Email](https://img.shields.io/badge/📬_Email-khuzaimahassan.work@gmail.com-EA4335?style=for-the-badge)](mailto:khuzaimahassan.work@gmail.com)
+[![Email](https://img.shields.io/badge/📬_Email-khuzaimahassan52@gmail.com-EA4335?style=for-the-badge)](mailto:khuzaimahassan52@gmail.com)
 [![GitHub](https://img.shields.io/badge/💻_GitHub-KhuzaimaHassan-181717?style=for-the-badge)](https://github.com/KhuzaimaHassan)
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=KhuzaimaHassan&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile Views" />
-
-<br/><br/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer" width="100%"/>
 
