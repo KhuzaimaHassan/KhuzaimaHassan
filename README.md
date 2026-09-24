@@ -11,7 +11,7 @@
 <br/><br/>
 
 <!-- Profile Badges -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://khuzaimahassan.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.khuzaimahassan.me/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khuzaimahassan52@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KhuzaimaHassan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khuzaima-hassan-2004mkh)
@@ -148,7 +148,7 @@ Smart job recommendation system that leverages Google Gemini to match candidates
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-khuzaimahassan.github.io-6C63FF?style=for-the-badge)](https://khuzaimahassan.github.io)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-www.khuzaimahassan.me-6C63FF?style=for-the-badge)](https://www.khuzaimahassan.me/)
 [![Email](https://img.shields.io/badge/📬_Email-khuzaimahassan52@gmail.com-EA4335?style=for-the-badge)](mailto:khuzaimahassan52@gmail.com)
 [![GitHub](https://img.shields.io/badge/💻_GitHub-KhuzaimaHassan-181717?style=for-the-badge)](https://github.com/KhuzaimaHassan)
 
