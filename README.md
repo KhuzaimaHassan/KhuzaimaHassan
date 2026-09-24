@@ -95,24 +95,33 @@ currently:
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="22"> [AI Academic Mentor](https://github.com/KhuzaimaHassan/AI-Academic-Mentor)
-> 🎓 **Intelligent Student Support System**
+### <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="22"> [Logistics Demand & ETA Forecasting](https://github.com/KhuzaimaHassan/logistics-forecasting-platform)
+> 🚖 **Production MLOps Platform**
 
-An AI-powered academic assistant built with agentic architecture that helps students with course content, assignments, and learning pathways using RAG-based retrieval.
+Live platform forecasting NYC taxi demand in real time with Feast, Redpanda streaming, sub-15ms Redis serving, and a LangGraph Copilot.
 
-`LangGraph` `RAG` `Streamlit` `Multi-Agent`
+`FastAPI` `Feast` `Redpanda` `LangGraph`
 
 ---
 
-### <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="22"> [Sociogram](https://github.com/KhuzaimaHassan/Sociogram)
-> 🌐 **Full-Stack Social Media Platform**
+### <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="22"> [Voice Patient Registration](https://github.com/KhuzaimaHassan/voice-patient-registration)
+> 🎙️ **AI-driven Voice Agent**
 
-A modern social media application with real-time features, authentication, and a polished UI — built with the latest web technologies.
+Production-ready voice AI intake agent and backend pipeline. Callers speak with a conversational agent to register details into PostgreSQL.
 
-`Next.js` `MongoDB` `NextAuth` `Tailwind CSS`
+`FastAPI` `Vapi.ai` `Supabase` `Pydantic`
 
 </td>
 <td width="50%" valign="top">
+
+### <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="22"> [Quasar](https://github.com/KhuzaimaHassan/Quasar)
+> 🌌 **Full-Stack AI Workspace**
+
+Production multi-agent workspace with multi-model streaming chat, end-to-end RAG document engine, long-term memory, and GitHub tool execution.
+
+`Next.js` `FastAPI` `LangGraph` `pgvector`
+
+---
 
 ### <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="22"> [Job Finder AI](https://github.com/KhuzaimaHassan/job-finder-ai)
 > 💼 **AI-Powered Job Matching Engine**
@@ -120,27 +129,6 @@ A modern social media application with real-time features, authentication, and a
 Smart job recommendation system that leverages Google Gemini to match candidates with the best opportunities through intelligent analysis.
 
 `Next.js` `Google Gemini` `Prisma` `AI Matching`
-
----
-
-### <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="22"> [AQI Predictor](https://github.com/KhuzaimaHassan/10-Pearls-AQI-Predictor)
-> 🌍 **Air Quality Forecasting System**
-
-End-to-end MLOps pipeline for predicting air quality index with automated training, experiment tracking, and a live dashboard.
-
-`MLOps` `Streamlit` `scikit-learn` `MLflow`
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-### <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="22"> [Risk Scoring Platform](https://github.com/KhuzaimaHassan/Risk-Scoring-Platform)
-> 🏦 **Credit Risk ML System**
-
-A machine learning platform for credit risk assessment, featuring model training, evaluation, and a Flask-based API for real-time scoring.
-
-`Flask` `scikit-learn` `Risk Analytics` `ML Pipeline`
 
 </td>
 </tr>
