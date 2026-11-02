@@ -46,6 +46,67 @@ currently:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+## 🏗️ Featured Projects
+
+Explore the implemented workflows, source code, and setup guides below. Hosted demos may sleep or depend on provider quotas; each repository records its own limitations.
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="22"> [Logistics Demand & ETA Forecasting](https://github.com/KhuzaimaHassan/logistics-forecasting-platform)
+> 🚖 **MLOps Forecasting Demo**
+
+Scheduled processing of a January 2023 NYC Green TLC sample for demand and ETA forecasts, Feast features, and a LangGraph Ops Copilot. Hosted services use Kafka and Valkey; the local stack uses Redpanda and Redis.
+
+`FastAPI` `Feast` `Kafka` `LangGraph`
+
+[Architecture](https://github.com/KhuzaimaHassan/logistics-forecasting-platform/blob/main/docs/Architecture.md) · [Demo](https://logistics-forecasting-platform.streamlit.app/)
+
+---
+
+### <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="22"> [Voice Patient Registration](https://github.com/KhuzaimaHassan/voice-patient-registration)
+> 🎙️ **Voice Intake Prototype**
+
+Vapi tool calls connect a conversational voice assistant to a FastAPI backend that validates registration details and stores records in PostgreSQL. Voice behavior depends on the configured Vapi assistant.
+
+`FastAPI` `Vapi.ai` `Supabase` `Pydantic`
+
+[Workflow & setup](https://github.com/KhuzaimaHassan/voice-patient-registration/blob/main/README.md) · [Webhook implementation](https://github.com/KhuzaimaHassan/voice-patient-registration/blob/main/backend/app/routers/vapi_webhook.py)
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="22"> [Quasar](https://github.com/KhuzaimaHassan/Quasar)
+> 🌌 **Full-Stack AI Workspace**
+
+Streaming multi-model chat, document retrieval with source citations, saved memory, and agent workflows with approval before execution. Conversations, documents, memory, and runs are organized by workspace.
+
+`Next.js` `FastAPI` `LangGraph` `pgvector`
+
+[Architecture](https://github.com/KhuzaimaHassan/Quasar/blob/main/docs/Architecture.md) · [Demo](https://qausar.vercel.app)
+
+---
+
+### <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="22"> [Job Finder AI](https://github.com/KhuzaimaHassan/job-finder-ai)
+> 💼 **Job Search & Application Workspace**
+
+Discover remote technology roles and Pakistan listings, match them to a saved profile and resume, prepare application material with AI, and track application stages. Review generated suggestions before use.
+
+`Next.js` `FastAPI` `Supabase` `Gemini`
+
+[Features](https://github.com/KhuzaimaHassan/job-finder-ai/blob/main/docs/FEATURES.md) · [Demo](https://ai-jobfinder.vercel.app/)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Arsenal
 
 <div align="center">
@@ -82,57 +143,6 @@ currently:
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![DagsHub](https://img.shields.io/badge/DagsHub-6B4FBB?style=for-the-badge&logo=dagshub&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🏗️ Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="22"> [Logistics Demand & ETA Forecasting](https://github.com/KhuzaimaHassan/logistics-forecasting-platform)
-> 🚖 **Production MLOps Platform**
-
-Live platform forecasting NYC taxi demand in real time with Feast, Redpanda streaming, sub-15ms Redis serving, and a LangGraph Copilot.
-
-`FastAPI` `Feast` `Redpanda` `LangGraph`
-
----
-
-### <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="22"> [Voice Patient Registration](https://github.com/KhuzaimaHassan/voice-patient-registration)
-> 🎙️ **AI-driven Voice Agent**
-
-Production-ready voice AI intake agent and backend pipeline. Callers speak with a conversational agent to register details into PostgreSQL.
-
-`FastAPI` `Vapi.ai` `Supabase` `Pydantic`
-
-</td>
-<td width="50%" valign="top">
-
-### <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="22"> [Quasar](https://github.com/KhuzaimaHassan/Quasar)
-> 🌌 **Full-Stack AI Workspace**
-
-Production multi-agent workspace with multi-model streaming chat, end-to-end RAG document engine, long-term memory, and GitHub tool execution.
-
-`Next.js` `FastAPI` `LangGraph` `pgvector`
-
----
-
-### <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="22"> [Job Finder AI](https://github.com/KhuzaimaHassan/job-finder-ai)
-> 💼 **AI-Powered Job Matching Engine**
-
-Smart job recommendation system that leverages Google Gemini to match candidates with the best opportunities through intelligent analysis.
-
-`Next.js` `Google Gemini` `Prisma` `AI Matching`
-
-</td>
-</tr>
-</table>
 
 </div>
 
