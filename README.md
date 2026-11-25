@@ -22,27 +22,11 @@
 
 </div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;About Me
+## About Me
 
-```yaml
-Name: Khuzaima Hassan
-Role: AI/ML Engineer
-Education:
-  University: NED University of Engineering & Technology
-  location: Karachi, Pakistan
-  Degree: BS Computer Science with specialization in Data Science
+I’m an AI/ML Engineer and Computer Science student specializing in Data Science at NED University of Engineering & Technology in Karachi, Pakistan.
 
-focus_areas:
-  - 🤖 Agentic AI & LLM Systems
-  - 🔄 End-to-End ML Pipelines & MLOps
-  - 📊 Data Engineering & Analytics
-  - 🚀 Generative AI Applications
-
-currently:
-  building: Intelligent AI agents with LangGraph 
-  learning: Advanced RAG architectures & multi-agent systems
-  exploring: Production-grade ML infrastructure
-```
+I build AI applications and end-to-end machine learning workflows, with a focus on agentic systems, LLMs, MLOps, and data engineering. I’m currently building with LangGraph and exploring advanced retrieval-augmented generation (RAG).
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -50,13 +34,8 @@ currently:
 
 Explore the implemented workflows, source code, and setup guides below. Hosted demos may sleep or depend on provider quotas; each repository records its own limitations.
 
-<div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="22"> [Logistics Demand & ETA Forecasting](https://github.com/KhuzaimaHassan/logistics-forecasting-platform)
+### [Logistics Demand & ETA Forecasting](https://github.com/KhuzaimaHassan/logistics-forecasting-platform)
 > 🚖 **MLOps Forecasting Demo**
 
 Scheduled processing of a January 2023 NYC Green TLC sample for demand and ETA forecasts, Feast features, and a LangGraph Ops Copilot. Hosted services use Kafka and Valkey; the local stack uses Redpanda and Redis.
@@ -67,7 +46,7 @@ Scheduled processing of a January 2023 NYC Green TLC sample for demand and ETA f
 
 ---
 
-### <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="22"> [Voice Patient Registration](https://github.com/KhuzaimaHassan/voice-patient-registration)
+### [Voice Patient Registration](https://github.com/KhuzaimaHassan/voice-patient-registration)
 > 🎙️ **Voice Intake Prototype**
 
 Vapi tool calls connect a conversational voice assistant to a FastAPI backend that validates registration details and stores records in PostgreSQL. Voice behavior depends on the configured Vapi assistant.
@@ -76,10 +55,10 @@ Vapi tool calls connect a conversational voice assistant to a FastAPI backend th
 
 [Workflow & setup](https://github.com/KhuzaimaHassan/voice-patient-registration/blob/main/README.md) · [Webhook implementation](https://github.com/KhuzaimaHassan/voice-patient-registration/blob/main/backend/app/routers/vapi_webhook.py)
 
-</td>
-<td width="50%" valign="top">
+---
 
-### <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="22"> [Quasar](https://github.com/KhuzaimaHassan/Quasar)
+
+### [Quasar](https://github.com/KhuzaimaHassan/Quasar)
 > 🌌 **Full-Stack AI Workspace**
 
 Streaming multi-model chat, document retrieval with source citations, saved memory, and agent workflows with approval before execution. Conversations, documents, memory, and runs are organized by workspace.
@@ -90,7 +69,7 @@ Streaming multi-model chat, document retrieval with source citations, saved memo
 
 ---
 
-### <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="22"> [Job Finder AI](https://github.com/KhuzaimaHassan/job-finder-ai)
+### [Job Finder AI](https://github.com/KhuzaimaHassan/job-finder-ai)
 > 💼 **Job Search & Application Workspace**
 
 Discover remote technology roles and Pakistan listings, match them to a saved profile and resume, prepare application material with AI, and track application stages. Review generated suggestions before use.
@@ -99,52 +78,17 @@ Discover remote technology roles and Pakistan listings, match them to a saved pr
 
 [Features](https://github.com/KhuzaimaHassan/job-finder-ai/blob/main/docs/FEATURES.md) · [Demo](https://ai-jobfinder.vercel.app/)
 
-</td>
-</tr>
-</table>
 
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Arsenal
+## Tools Across Featured Projects
 
-<div align="center">
-
-### 🧠 AI / ML / Data Science
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-006400?style=for-the-badge&logo=xgboost&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🌐 Web & Frameworks
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### 🗄️ Data & Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![Hopsworks](https://img.shields.io/badge/Hopsworks-0DB7ED?style=for-the-badge&logo=hopsworks&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-### ⚙️ DevOps & MLOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![DagsHub](https://img.shields.io/badge/DagsHub-6B4FBB?style=for-the-badge&logo=dagshub&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-
-</div>
+- **AI & agent tools:** LangGraph, Gemini, Vapi
+- **Feature store:** Feast
+- **Languages:** Python, TypeScript, SQL
+- **Application frameworks:** FastAPI, Next.js, Streamlit
+- **Data & infrastructure:** PostgreSQL, Supabase, pgvector, Kafka, Valkey
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
